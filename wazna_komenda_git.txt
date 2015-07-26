@@ -1,0 +1,13 @@
+Jak jestes w gicie i chcesz sprawdzic co kto kiedy dodal, to wpisz
+
+git log
+
+a zeby sprawdzic jak ladnie to wyglada to wpisz
+
+git log --pretty=format:"%h - %an - %ar - %s"
+
+
+h - godzina
+an -autor
+ar - kurde chyab to byla godzina???
+s - poczatek wiadomosci
