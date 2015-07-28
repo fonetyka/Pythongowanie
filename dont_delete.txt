@@ -5,3 +5,4 @@ git rm -f file
 to remove from the staging area, but keep it on the disk
 
 git rm --cached file
+jacek tu byl
